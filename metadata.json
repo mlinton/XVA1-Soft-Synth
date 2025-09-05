@@ -1,0 +1,7 @@
+{
+  "name": "XVA1 Synthesizer Editor",
+  "description": "A web-based editor for the XVA1 Virtual Analog synthesizer module. It provides a graphical interface to view and modify all parameters of the synth engine, including oscillators, filters, modulation, and effects.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
